@@ -42,5 +42,5 @@ last = string1[-3]
 fourth = string1[3]
 # print(fourth)
 
-print(third + last + fourth)
+# print(third + last + fourth)
 
