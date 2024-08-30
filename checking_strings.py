@@ -17,8 +17,4 @@
 
 
 
-string1 = input("Describe an object")
-check = "a" in string1
-print(check)
 
-# outputs "True"
