@@ -8,12 +8,24 @@
     # print("The geese are a small group")
 
 
-odd = input("Enter an odd number")
-even = 
+# Challenge 1 
+# question = int(input("Enter a three digit number"))
 
-if               :
-    print(      )
-else:
-    print(      )
+# # if  100 <= question < 1000:
+#     print("Yes")
+# else:
+#     print("No")
 
 
+
+
+
+
+# Challenge 2
+# number  = 13
+
+# if number % 3 == 0 :
+#     print("Is divisible by 3")
+    
+# else:
+#     print("Is not divisible by 3")
