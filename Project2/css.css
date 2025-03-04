@@ -1,0 +1,40 @@
+.orange {
+    padding: 10px;
+    background-color: aquamarine;
+    color: #3f4f69;
+    
+}
+.orange:hover {
+    color: black
+}
+/*Should show the assigned color*/
+
+.violet {
+    background-image: linear-gradient(top, red, black);
+    color: #a44646;
+    list-style: circle;
+}
+
+.violet:hover {
+    background-color: tan;
+}
+
+.tan {
+    color: #966969 ;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.tan:hover {
+    background-color: navy;
+}
+/*Should show the assigned color*/
+
+.tan {
+    opacity: 0;
+}
+@media (min-width: 100px) {
+    .tan {
+        color: blue;
+    }
+}
