@@ -1,0 +1,57 @@
+.style {
+    opacity: 1;
+    padding: 20px;
+    color: #3d4b61;
+}
+.one:hover {
+    font-size: 25px;
+    text-decoration: underline dashed;
+    border: 2px solid pink;
+    border-radius: 4px;
+}
+
+img {
+    background-image: linear-gradient(to right, #2b3545, #658bc8 );
+}
+
+.more {
+    color: #5a616d;
+    border-radius: 10px;
+}
+.two:hover {
+    background-color: #0745b0 ;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    color: red;
+    text-align: center;
+}
+
+.title:hover {
+    font-style: italic;
+    margin: 20px;
+    padding: 10px;
+    
+} 
+
+@media(min-width: 40px) {
+    body {
+        margin: 20px;
+        color: gold;
+    }
+}
+
+.button {
+    background-color: blueviolet;
+}
+
+iframe:hover {
+    opacity: .5;
+}
+
+
+
+
+    
