@@ -1,0 +1,23 @@
+.red {
+    opacity: 0.5;
+    padding: 20px;
+    color: #516585;
+}
+.blue {
+    border-radius: 10px;
+    color: #bd4a2e;
+    background-image: linear-gradient(to right, red, yellow);
+}
+.yellow {
+    background-color: black;
+    text-align: center;
+    color: wheat;
+    cursor: pointer;
+    border: none;
+    padding: 15px;
+}
+yellow:hover {
+    background-color: tomato;
+}
+
+
